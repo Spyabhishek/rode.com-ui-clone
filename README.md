@@ -2,6 +2,6 @@
 
 # Currently works best between @449px to @900px screens ( More responsivness coming soon...😄 )
 
- [Link](rodespy.netlify.app)
+### [Link](https://rodespy.netlify.app/)
 
 #### This project is the part of Full-Stack-JS course.
